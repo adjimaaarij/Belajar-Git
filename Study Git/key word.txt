@@ -1,0 +1,6 @@
+-git init
+-git status = cek Stastu dalam folder
+-git add . =
+-git commid -m 'komentar' =
+-git log =
+-git log --oneline =
